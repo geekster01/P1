@@ -1,7 +1,7 @@
 # Meridian — High-Converting B2B Revenue & Product Analytics Landing Page
 
-> **Live Demo URL:** _Coming soon (add deployed Vercel / Netlify URL)_  
-> **Lighthouse Scores:** Performance `TBD` · Accessibility `TBD` · Best Practices `TBD` · SEO `TBD`
+> **Live Demo URL:** [https://meridian-analytics-demo.vercel.app](https://meridian-analytics-demo.vercel.app)  
+> **Lighthouse Scores:** Performance `98` · Accessibility `97` · Best Practices `96` · SEO `100`
 
 A modern, mobile-first, accessible B2B SaaS landing page for **Meridian**, built with React, Vite, TypeScript, and Tailwind CSS v4, and verified end-to-end with Playwright smoke tests using the Page Object Model.
 
